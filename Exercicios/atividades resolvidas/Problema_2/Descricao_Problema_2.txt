@@ -1,0 +1,11 @@
+Questão:
+
+Carlos e João possuem salários diferentes. Inicialmente, o salário de João é um terço do salário de Carlos. Ambos recebem aumentos mensais em seus salários, sendo 2% para Carlos e 5% para João.  
+
+Desenvolva um programa que:  
+1. Leia o valor inicial do salário de Carlos.  
+2. Calcule quantos meses serão necessários para que o salário de João ultrapasse o de Carlos.  
+3. Exiba o número de meses necessários e os valores finais dos salários de Carlos e João.  
+Regras:  
+- O programa deve considerar os aumentos proporcionais mês a mês.  
+- Os valores de salários devem ser exibidos com duas casas decimais ao final do cálculo.  

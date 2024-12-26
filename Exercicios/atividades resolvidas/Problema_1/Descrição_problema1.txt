@@ -1,0 +1,7 @@
+Foi realizada uma pesquisa entre os habitantes de uma determinada região, coletando dados sobre idade, sexo (M/F) e salário. Com base nesses dados, o programa deverá calcular e apresentar os seguintes resultados:
+a) A média dos salários do grupo;
+b) A maior e a menor idade do grupo;
+c) A quantidade de mulheres que possuem salário de até R$ 200,00;
+d) A idade e o sexo da pessoa com o menor salário.
+
+A entrada de dados será finalizada quando for digitada uma idade negativa.
